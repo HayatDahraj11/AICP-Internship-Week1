@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-//Written By Hayat Sikandar (for Week 1 task AICP Internsip)
+//Written By Hayat Sikandar (for Week 1 task AICP Internship)
 
 
 
